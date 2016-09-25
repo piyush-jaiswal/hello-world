@@ -1,1 +1,2 @@
 Adding a file from my computer, local repository
+Testing a git feature.
